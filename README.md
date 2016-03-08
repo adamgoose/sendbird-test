@@ -1,5 +1,7 @@
 # sendbird-test
 
+![](http://d.enge.me/11UaS+)
+
 > A Vue.js project
 
 ## Build Setup
